@@ -1,0 +1,9 @@
+---
+title: "Reading data into R with `readxl`"
+author: "Quynh Mai Hoang"
+date: "7 7 2022"
+output: html_document
+---
+# Learning `readxl`
+
+We are working with data and it's going to be amazing.
